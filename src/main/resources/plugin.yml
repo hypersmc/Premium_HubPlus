@@ -1,0 +1,5 @@
+name: PremiumHubPlus
+version: 1.0
+api-version: 1.13
+main: me.hypersmc.jumpwatch.main.Main
+description: An amazing hub plugin
